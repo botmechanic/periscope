@@ -1,3 +1,5 @@
+![Periscope Logo](./periscope.png)
+
 # Periscope
 
 ## Dive Deep into Liquidity Pool Data
